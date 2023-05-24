@@ -1,0 +1,18 @@
+a {
+  color: rgb(216, 216, 223); /* définit la couleur du lien */
+  text-decoration: none; /* supprime le soulignement du lien */
+  font-style: italic;
+  border-style: solid;
+  border: 2px solid rgb(127, 1, 1);
+  border-radius: 5px;
+  
+}
+
+a:hover {
+  color: rgb(127, 1, 1); /* définit la couleur du lien lorsque la souris passe au-dessus */
+  text-decoration: underline; /* souligne le lien lorsque la souris passe au-dessus */
+  font-style: italic;
+  border-style: solid;
+  border: 2px solid  rgb(216, 216, 223);
+  border-radius: 5px;
+}

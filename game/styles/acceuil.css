@@ -1,0 +1,24 @@
+.box {
+    background: rgb(118, 88, 88);
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 210px;
+    left: 210px;
+    cursor: pointer;
+    
+    
+}
+body {
+    background-image: url(couloir.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* color: cornsilk;
+    text-shadow: 2px 2px 5px rgb(234, 211, 98); */
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(232, 225, 7), 0 0 5px rgb(231, 182, 91);
+    line-height: 1.8;
+    
+    
+}
